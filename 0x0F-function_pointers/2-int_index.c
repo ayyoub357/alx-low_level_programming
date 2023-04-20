@@ -4,9 +4,9 @@
  * int_index - If the comparison is true, return the index place; else, return -1.
  * @array: array
  * @size: the array's element size
- * @cmp: pointer to one of the three functions in main
+ * @cmp: comparing functions
  *
- * Return: 0
+ * Return: indexing by an integer
  */
 
 int int_index(int *array, int size, int (*cmp)(int))
