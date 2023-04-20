@@ -5,6 +5,7 @@
  * @array: array
  * @size: the array's element size
  * @cmp: pointer to one of the three functions in main
+ *
  * Return: 0
  */
 
