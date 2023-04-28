@@ -6,7 +6,7 @@
  *
  * Return: string length in integers
  */
- 
+
 int _strlen(char *s)
 {
 	int i = 0;
@@ -24,7 +24,7 @@ int _strlen(char *s)
  *
  * Return: list length
  */
- 
+
 size_t print_list(const list_t *h)
 {
 	size_t i = 0;
